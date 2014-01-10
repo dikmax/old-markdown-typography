@@ -1,0 +1,5 @@
+name: markdown-typography
+dependencies:
+  ace: any
+  browser: any
+  markdown: any
